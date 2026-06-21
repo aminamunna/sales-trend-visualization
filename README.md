@@ -4,13 +4,16 @@
 A data analytics project exploring revenue trends, seasonality, and performance breakdowns from retail sales data, built in Jupyter Notebook using pandas, matplotlib, and seaborn.
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ### Sales Trend Chart
 
-![Sales Trend Chart](images/sales_trend_chart.png)
+![Sales Trend Chart](sales_trend_chart.png)
 
 ### Monthly Revenue Trend by Category
 
-![Monthly Revenue Trend by Category](images/Monthly_Revenue_Trend_by_Category.png)
+![Monthly Revenue Trend by Category](Monthly_Revenue_Trend_by_Category.png)
+
 
 ## Project Files
 
